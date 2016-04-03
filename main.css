@@ -1,0 +1,19 @@
+body {
+  background-color: #333;
+  color: #eee;
+  font-family: "consolas", "sans-serif";
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  width: 960px;
+  background-color: #444;
+  border-radius: 1em;
+}
+
+h1 {
+  font-family: "Apex New", "sans-serif";
+  font-size: 4em;
+}
